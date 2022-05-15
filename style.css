@@ -294,4 +294,5 @@ nav ul li a:hover {
     background-color: #00e9a5;
     color: #000;
     text-transform: uppercase;
+    cursor: pointer;
 }
