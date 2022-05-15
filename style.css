@@ -289,7 +289,7 @@ nav ul li a:hover {
     height: 150px;
 }
 
-#contact form input[type="submit"]{
+#contact form button{
     height: 45px;
     background-color: #00e9a5;
     color: #000;
